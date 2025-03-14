@@ -66,7 +66,7 @@
     <center id="top">
       <div class="logo"></div>
       <div class="info">
-        <h2>Hebrews Kape</h2>
+        <h2>Prosperitea Dingalan</h2>
       </div><!--End Info-->
     </center><!--End InvoiceTop-->
 
